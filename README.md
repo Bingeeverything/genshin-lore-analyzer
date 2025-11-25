@@ -101,11 +101,4 @@ git push origin main
 **Contributors / Credits**
 - Repo owner: `Bingeeverything` (GitHub)
 
-**Contact / Next steps**
-- If you want, I can:
-	- Add a short usage section per notebook
-	- Add automation to generate embeddings from a chosen provider
-	- Create a small CLI script that runs the whole pipeline non-interactively
 
----
-Generated: November 26, 2025
